@@ -1,13 +1,14 @@
 # Particle Swarm Optimization
-==============
 粒子群最適化
 
 
-## Contributor 
+## Contributor
 Yoshiki Nakagawa
 
+@yyoshiki41
+
 ## Example
-![Image of PSO](https://https://github.com/yyoshiki41/Paticle_Swarm_Optimization.png)
+![Image of PSO](https://raw.githubusercontent.com/yyoshiki41/Particle_Swarm_Optimization/master/example.png)
 
 
 ## Benchmark functions
